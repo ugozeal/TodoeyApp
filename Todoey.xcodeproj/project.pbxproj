@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E228CE8F25D09798008016A3 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = E228CE8E25D09798008016A3 /* Item.swift */; };
 		E252201925D519CE0031387D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E252201825D519CE0031387D /* Main.storyboard */; };
 		E252201E25D519E40031387D /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E252201C25D519E40031387D /* CategoryViewController.swift */; };
 		E252201F25D519E40031387D /* TodListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E252201D25D519E40031387D /* TodListViewController.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E228CE8E25D09798008016A3 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		E252201825D519CE0031387D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		E252201C25D519E40031387D /* CategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		E252201D25D519E40031387D /* TodListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodListViewController.swift; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 		E228CE8D25D09782008016A3 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				E228CE8E25D09798008016A3 /* Item.swift */,
 				E252202125D519F40031387D /* DataModel.xcdatamodeld */,
 			);
 			path = Model;
@@ -178,7 +175,6 @@
 			files = (
 				E252201F25D519E40031387D /* TodListViewController.swift in Sources */,
 				E252202325D519F40031387D /* DataModel.xcdatamodeld in Sources */,
-				E228CE8F25D09798008016A3 /* Item.swift in Sources */,
 				E252202725D51A0A0031387D /* AppDelegate.swift in Sources */,
 				E252201E25D519E40031387D /* CategoryViewController.swift in Sources */,
 			);
